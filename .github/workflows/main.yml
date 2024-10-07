@@ -24,7 +24,7 @@ jobs:
           server: '${{ secrets.SERVER }}'
           port: '${{ secrets.SSH_PORT }}'
           local_path: './dist/*'
-          remote_path: '/home/industrialtransf/public_html/'
+          remote_path: '/home/hfmexico/public_html/futuristic-minds-scanner.igeco.mx'
           sftp_only: true
           password: '${{ secrets.SFTP_PASSWORD }}'
 
