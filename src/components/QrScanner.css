@@ -38,3 +38,18 @@
   padding-top: 20px;
   font-weight: bold;  
 }
+
+.text-status{
+  text-align: center;
+  text-transform: uppercase;
+}
+.container-user{
+  font-size: 24px;
+  text-align: center;
+  color: rgb(242, 255, 0);
+}
+
+.text-institution{
+  font-weight: 300;
+  color: #00ff08;
+}
